@@ -2,6 +2,8 @@
 
 A cinematic, editorial photography portfolio site — React, TypeScript, Vite, Tailwind CSS, and Framer Motion.
 
+**Live demo:** [ktenneti-ai.github.io/kishore-photography](https://ktenneti-ai.github.io/kishore-photography/)
+
 ## Development
 
 ```bash
@@ -17,6 +19,14 @@ Then open the printed local URL (defaults to http://localhost:5173).
 npm run build   # type-checks and builds to dist/
 npm run preview # preview the production build locally
 ```
+
+## Deploy
+
+```bash
+npm run deploy  # builds and publishes dist/ to the gh-pages branch
+```
+
+Served via GitHub Pages from the `gh-pages` branch of this repo.
 
 ## Replacing sample photography
 
