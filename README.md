@@ -33,3 +33,9 @@ Served via GitHub Pages from the `gh-pages` branch of this repo.
 All sample images, copy, nav links, services, and testimonials live in a single file:
 `src/data/site.ts`. Swap the `unsplashId` values for your own photo URLs (or import local
 files) to replace every image on the site — no component changes required.
+
+## License
+
+© 2026 Kishore Photography. All rights reserved. This code and its assets, including the
+photographs, are shared publicly for viewing only — no reuse, copying, or redistribution is
+permitted without permission.
